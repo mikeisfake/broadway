@@ -1,0 +1,30 @@
+*{
+  font-family:helvetica;
+  text-align:center;
+}
+
+h1{
+  color:#fff;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+h3 .design{
+  color:#fff;
+}
+
+.header{
+  position: fixed;
+  background-image:url(../../resources/images/flatiron2.jpg);
+  background-size: cover;
+  height:500px;
+  width:100%
+}
